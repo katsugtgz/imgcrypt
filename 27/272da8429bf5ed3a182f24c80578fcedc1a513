@@ -1,0 +1,19 @@
+.github/workflows/ci.yml
+  s_1c9c15c5e76960::t_a17546b7088e53 72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "27272da8429bf5ed3a182f24c80578fcedc1a513",
+  "prompts": {},
+  "sessions": {
+    "s_1c9c15c5e76960": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a062a6-9917-7e1e-b995-50a2d512ae78",
+        "model": "glm-5.3"
+      },
+      "human_author": "Muhammad Naufal Mahdi <053792227@ecampus.ut.ac.id>"
+    }
+  }
+}
